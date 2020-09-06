@@ -6,7 +6,7 @@ for the purpose of this project libraries such as numpy,pandas,matplotlib and pi
 you have to install them either throuh pip command or directly through conda
 
 # HOW TO USE
-1- navigate to cloned project
+1- navigate to cloned project \n
 2- train.py is used for training the model
 3- predict.py is used to predict the image and the top 5 category names
 4- utilities.py is used in order to structure the code base. all the functions can be found in this file
